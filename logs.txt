@@ -1,0 +1,5 @@
+commit a1f642ccac6e175f1a5d1756f88c345126cf1180 (HEAD -> logs, origin/master, master)
+Author: unknown <riste.kostadinov@students.finki.ukim.mk>
+Date:   Thu Apr 4 10:26:34 2019 +0200
+
+    initial commit
